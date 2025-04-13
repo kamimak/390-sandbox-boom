@@ -1,0 +1,11 @@
+---
+title: "model"
+format: html
+---
+
+```{r}
+#| label: test
+
+rat <- 2+2
+rat
+```
